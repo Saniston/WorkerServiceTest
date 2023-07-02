@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2RK5m2BPL42pGuiVLzm76z0P5mFkxqjnhao0tRBHJdoaj8WpZAJUSRbqdKPU0CsZ7+mi7hP+cotqWTiPTR4LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imagine\\Documents\\projects\\WorkerServiceTest\\WorkerServiceForm\\WorkerServiceForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imagine\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\imagine\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.1\\system.serviceprocess.servicecontroller.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
